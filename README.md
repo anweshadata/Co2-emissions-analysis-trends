@@ -16,7 +16,7 @@ To analyse global CO₂ emissions patterns over a 28-year period, comparing tota
 
 ## Data Source
 
-Publicly available CO₂ emissions dataset (Kaggle).
+Global CO₂ Emissions dataset (Maven Analytics Data Playground), sourced from [Our World in Data](https://ourworldindata.org/co2-emissions). Contains global fossil fuel emissions data from 1750–2021 by country, paired with population data. Licensed CC BY 4.0. Dashboard analysis filtered to 1990–2018.
 
 ---
 
